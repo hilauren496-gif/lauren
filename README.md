@@ -2,7 +2,7 @@
 # hi this is my portfolio for now 
 **12-year-old developer from Ghana 🇬🇭**  
 ---
-**skills: **
+**skills:**
 
 Python • Web Dev • Cybersecurity • Violin • Football (ISAAG champion)
 
