@@ -2,7 +2,8 @@
 # hi this is my portfolio for now 
 **12-year-old developer from Ghana 🇬🇭**  
 ---
-**skills**
+**skills: **
+
 Python • Web Dev • Cybersecurity • Violin • Football (ISAAG champion)
 
 ---
@@ -12,7 +13,7 @@ A bit about me : I play the violin, i do football and i speak english twi and a 
 portfolio link: coming soon
 ---
 
-## 🔭 What I’m working on
+##  What I’m working on
 - Building beginner-to-intermediate projects in **Python** (file handling, data handling).  
 - Learning **HTML/CSS** and planning a portfolio website.  
 - Exploring **ethical cybersecurity** through TryHackMe & PicoCTF.  
@@ -23,7 +24,7 @@ portfolio link: coming soon
 - Tools: Git, GitHub, VS Code, Replit  
 - Cyber: TryHackMe, PicoCTF (learning path)
 
-## 📂 Projects (Pinned)
+##  Projects (Pinned)
 - Coming soon 
 
 ## 🎯 Goals
@@ -33,7 +34,7 @@ portfolio link: coming soon
 - Apply to top universities with strong portfolio & impact.
 - building multiple apps
 - working on machine learning 
-## 📫 Contact
+##  Contact
 - Portfolio (coming soon)  
 - Email: hilauren496@gmail.com
 
