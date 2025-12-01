@@ -2,6 +2,7 @@
 # hi this is my portfolio for now 
 **12-year-old developer from Ghana 🇬🇭**  
 ---
+• Ranked 12th nationally in Ghana (AMO 2025)
 **• Ghana AMO – Bronze Award (Age 12)**
 ---
 **skills**
