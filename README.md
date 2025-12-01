@@ -2,8 +2,9 @@
 # hi this is my portfolio for now 
 **12-year-old developer from Ghana 🇬🇭**  
 ---
-**skills:**
-
+**• Ghana AMO – Bronze Award (Age 12)**
+---
+**skills**
 Python • Web Dev • Cybersecurity • Violin • Football (ISAAG champion)
 
 ---
